@@ -1,0 +1,37 @@
+# macOS
+.DS_Store
+
+# Editor and workspace files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+env/
+build/
+dist/
+*.egg-info/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Generated artifacts from the materials folder
+materials/.DS_Store
+materials/*_extracted/
+materials/*.txt
+materials/*.md
+materials/*.csv
+materials/*.json
