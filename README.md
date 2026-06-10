@@ -2,7 +2,7 @@
 
 ## Abstract
 
-This repository consolidates three source documents on retinal pigment epithelium (RPE) wound healing and morphology in the context of age-related macular degeneration (AMD). The material describes a cell-based framework for studying how RPE tissue repairs itself without explicit migration or proliferation, and it compares simulated repair behavior against published and experimental observations. The central modeling question is whether local tissue rearrangement, cell fusion, cell expansion, and purse-string closure can explain the observed recovery of wounded RPE monolayers and the morphological differences associated with aging and disease.
+This repository consolidates document on retinal pigment epithelium (RPE) wound healing and morphology in the context of age-related macular degeneration (AMD). The material describes a cell-based framework for studying how RPE tissue repairs itself without explicit migration or proliferation, and it compares simulated repair behavior against published and experimental observations. The central modeling question is whether local tissue rearrangement, cell fusion, cell expansion, and purse-string closure can explain the observed recovery of wounded RPE monolayers and the morphological differences associated with aging and disease.
 
 ## Background
 
@@ -112,7 +112,6 @@ Taken together, the documents suggest that RPE wound healing can be studied as a
 The repository is intentionally minimal:
 
 - `README.md` provides a research-style summary of the source material.
-- `materials/` stores the three PDFs used to prepare the summary.
 - `.gitignore` excludes common operating-system, editor, Python, and derived-artifact clutter.
 
 ## Notes on Attribution
