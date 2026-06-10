@@ -18,11 +18,11 @@ The work collected here pursues three closely related goals:
 
 ## Source Materials
 
-The folder [materials](materials) contains the source PDFs used to prepare this summary and to anchor the model description:
+The source PDFs are kept locally in `materials/` for reference, but the folder is excluded from version control so the documents are not pushed to GitHub:
 
-- [RPEWoundHealingModeling.pdf](materials/RPEWoundHealingModeling.pdf)
-- [ModelingMechanism.pdf](materials/ModelingMechanism.pdf)
-- [Modeling-Wound-Healing-Without-Migration-and-Proliferation_Poster.pdf](materials/Modeling-Wound-Healing-Without-Migration-and-Proliferation_Poster.pdf)
+- `RPEWoundHealingModeling.pdf`
+- `ModelingMechanism.pdf`
+- `Modeling-Wound-Healing-Without-Migration-and-Proliferation_Poster.pdf`
 
 ## Biological Context
 

@@ -29,9 +29,4 @@ dist/
 *.bak
 
 # Generated artifacts from the materials folder
-materials/.DS_Store
-materials/*_extracted/
-materials/*.txt
-materials/*.md
-materials/*.csv
-materials/*.json
+materials/
